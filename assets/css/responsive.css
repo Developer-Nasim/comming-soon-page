@@ -1,0 +1,398 @@
+/* Normal desktop :992px. */
+@media (max-width: 1400px) and (min-width: 1199px) {
+    .contact img { 
+        max-width: 355px;
+    }
+}
+@media (max-width: 1199px) and (min-width: 992px) {
+    img.img1 {
+        width: 200px;
+        left: 0;
+    }
+    img.img2 {
+        top: -24px;
+        width: 200px;
+        right: -40px;
+    }
+    .position_item img.img-tree { 
+        left: -115px;
+        top: 33%; 
+        max-width: 350px;
+    }
+    .position_item img.img-four { 
+        right: -70px;
+        top: 36%; 
+        max-width: 320px;
+    }
+    img.img3 {
+    width: 300px;
+    left: -64px;
+}
+    img.img4 {
+    width: 325px;
+    right: -120px;
+}
+    .page_content h2{
+    margin-top: 50px;
+    letter-spacing: 15px;
+}
+.phon_screen{
+    margin-top: 60px;
+    margin-bottom: 201px;
+}
+img.sm_logo{
+    width: 100px !important;
+}
+.phon_screen img{
+    width: 345px;
+}
+.footer_content img{
+    width: 280px;
+}
+ul.social li a{
+    font-size: 25px;
+}
+.contact img { 
+    max-width: 250px;
+}
+.contact { 
+    padding-bottom: 160px; 
+}
+
+
+
+
+
+
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .logo img{
+        width: 130px;
+    }
+
+    img.img1 {
+        width: 180px;
+        left: -7px;
+    }
+    img.img2 {
+        top: -20px;
+        width: 175px;
+        right: -61px;
+    }
+        img.img3 {
+        width: 260px;
+        left: -85px;
+        top: 80%;
+    }
+    .position_item img.img-tree {
+        position: absolute;
+        left: -115px;
+        top: 33%;
+        display: block;
+        max-width: 300px;
+    }
+    .position_item img.img-four {
+        position: absolute;
+        right: -90px;
+        top: 33%;
+        display: block;
+        max-width: 270px;
+    }
+        img.img4 {
+        width: 273px;
+        right: -120px;
+        top: 77%;
+    }
+        .page_content h2{
+        margin-top: 40px;
+        font-size: 25px;
+        letter-spacing: 15px;
+    }
+    .phon_screen{
+        margin-top: 50px;
+        margin-bottom: 160px;
+    }
+    img.sm_logo{
+        width: 100px !important;
+    }
+    .phon_screen img{
+        width: 290px;
+    }
+    .footer_content img{
+        width: 225px;
+    }
+    ul.social li a{
+        font-size: 25px;
+    }
+    .message{
+    width: 400px;
+}
+.top_text img{
+    width: 70px !important;
+    height: 17px;
+    padding-left: 15px;
+    padding: 0 25px 0 25px;
+}
+.top_text h5{
+    font-size: 13px;
+    margin-top: 4px;
+    margin-left: 10px;
+}
+.message_cont p{
+    font-size: 12px;
+}
+.message_cont a{
+    font-size: 12px;
+}
+.message.small_mm{
+    width: 200px;
+    top: 75%;
+}
+.message.small_mm .top_text{
+    height: 25px;
+}
+.message.small_mm .top_text img{
+    height: 10px;
+    width: 44px !important;
+    padding: 1px 12px 0 20px;
+}
+.message.small_mm .top_text h5{
+    margin-top: 2px;
+    font-size: 8px;
+}
+.message.small_mm .message_cont p{
+    font-size: 6px;
+}
+.message.small_mm .message_cont a{
+    font-size: 6px;
+}
+.contact img {  
+    max-width: 310px;
+}
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    .logo {
+        margin-top: 30px;
+        margin-bottom: 55px;
+    }
+    .logo img{
+        max-width: 130px;
+    } 
+    img.img1 {
+        width: 135px;
+        left: -56px;
+        top: 0px;
+    }
+    img.img2 {
+        top: -10px;
+        width: 134px;
+        right: -25px;
+        max-width: 110px;
+    }
+    img.img3 {
+        width: 160px;
+        left: -85px;
+        top: 80%;
+    }
+    .position_item img.img-tree {
+        position: absolute;
+        left: -70px;
+        top: 37%;
+        display: block;
+        max-width: 150px;
+    }
+    .position_item img.img-four {
+        position: absolute;
+        right: -58px;
+        top: 35%;
+        display: block;
+        max-width: 175px;
+    }
+    img.img4 {
+        width: 180px;
+        right: -120px;
+        top: 76%;
+    }
+        .page_content h2{
+        margin-top: 30px;
+        font-size: 22px;
+        letter-spacing: 6px;
+    }
+    .phon_screen{
+        margin-top: 30px;
+        margin-bottom: 110px;
+    }
+    img.sm_logo{
+        width: 70px !important;
+    }
+    .phon_screen img{
+        width: 190px;
+    }
+    .footer_content img{
+        width: 225px;
+    }
+    ul.social li a{
+        font-size: 25px;
+    }
+    .footer_content p{
+    font-size: 12px;
+    width: 250px;
+    margin-top: 17px;
+    margin-bottom: 15px;
+}
+
+.message{
+    width: 240px;
+    top: 48%;
+}
+.top_text img{
+    width: 63px !important;
+    height: 13px;
+    padding-left: 15px;
+    padding: 0 25px 0 25px;
+}
+
+.message_cont p{
+    font-size: 9px;
+}
+.message_cont a{
+    font-size: 9px;
+}
+.message.small_mm{
+    width: 120px;
+    top: 79%;
+}
+.message.small_mm .top_text{
+    height: 19px;
+}
+.message.small_mm .top_text img{
+    height: 9px;
+    width: 41px !important;
+    padding: 1px 12px 0 20px;
+}
+.message.small_mm .top_text h5{
+    margin-top: 2px;
+    font-size: 6px;
+}
+
+
+
+
+.footer_content img{
+    width: 140px;
+}
+ul.social li a{
+    font-size: 15px;
+    margin: 0 7px;
+}
+.footer_content small{
+    font-size: 11px;
+}
+footer{
+    padding: 30px 0;
+}
+
+.message{
+    width: 230px;
+    top: 48%;
+}
+.top_text img{
+    width: 52px !important;
+    height: 13px;
+    padding-left: 15px;
+    padding: 0 25px 0 14px;
+}
+.message_cont{
+    padding: 10px;
+}
+.top_text h5{
+    font-size: 9px;
+    margin-top: 0px;
+}
+.message_cont p{
+    font-size: 7px;
+    margin-bottom: 0;
+}
+.message_cont a{
+    font-size: 7px;
+}
+.message.small_mm{
+    width: 130px;
+    top: 79%;
+}
+.message.small_mm .top_text{
+    height: 19px;
+}
+.message.small_mm .top_text img{
+    height: 9px;
+    width: 41px !important;
+    padding: 1px 12px 0 20px;
+}
+.message.small_mm .top_text h5{
+    margin-top: 2px;
+    font-size: 6px;
+}
+
+.message.small_mm .message_cont p,
+.message.small_mm .message_cont a{
+font-size: 4px;
+}
+.message.small_mm .message_cont{
+padding: 4px;
+}
+.top_text{
+    height: 28px;
+} 
+.title h3 {
+    font-size: 22px; 
+    margin-bottom: 15px;
+}
+.title p {
+    font-size: 14px;
+}
+.contact img { 
+    max-width: 275px;
+}
+form input { 
+    height: 50px;
+    font-size: 14px; 
+    border: none;
+    outline: none;
+    border-radius: 50px;
+    padding: 15px;
+    padding-left: 30px;
+    margin-top: 10px;
+}
+button {
+    width: 90px;
+    height: 44px; 
+    outline: none;
+    border: none; 
+    margin-top: 10px;
+    font-size: 4px;
+}
+ 
+.contact img.trees {
+    left: 5px;
+    bottom: -5px;
+    width: 200px;
+}
+   
+ 
+
+
+
+
+
+
+}
+ 
+ 
